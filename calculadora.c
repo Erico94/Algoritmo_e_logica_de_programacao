@@ -17,6 +17,10 @@ int main()
         printf("Ex: 2+7\n");
         scanf("%f%c%f", &primeiroNumero, &operador, &segundoNumero);
 
+        if(primeiroNumero==0 || segundoNumero==0) { 
+            printf("Zero detectado, programa sendo encerrado.");
+            break; /*Encerra o programa caso algum zero seja detectado*/
+            } 
         if (operador == '+')
         {
             total = primeiroNumero + segundoNumero;
