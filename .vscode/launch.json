@@ -37,7 +37,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/User/Desktop/Univel/Disciplinas/Algoritmo_e_logica_de_programacao",
-      "program": "c:/Users/User/Desktop/Univel/Disciplinas/Algoritmo_e_logica_de_programacao/build/Debug/outDebug",
+      "program": "c:/Users/User/Desktop/Univel/Disciplinas/Algoritmo_e_logica_de_programacao/output",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
