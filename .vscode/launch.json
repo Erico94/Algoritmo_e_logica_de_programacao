@@ -37,7 +37,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/User/Desktop/Univel/Disciplinas/Algoritmo_e_logica_de_programacao",
-      "program": "c:/Users/User/Desktop/Univel/Disciplinas/Algoritmo_e_logica_de_programacao/output",
+      "program": "c:/Users/User/Desktop/Univel/Disciplinas/Algoritmo_e_logica_de_programacao/atividade_avaliativa_01/output/controleDeEstoque",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
